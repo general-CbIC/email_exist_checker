@@ -1,2 +1,5 @@
 # Email-exist checker 
-PHP script to check if email adress exists.
+Multilanguage scripts to check if email adress exists.
+
+## Requires
+* Telnet
